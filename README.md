@@ -49,4 +49,4 @@
 <br/>
 <br/>
 <h2>You Can Add Me On</h2>
-<a href="https://www.linkedin.com/in/zachary-edgell-44851015a"><img src="images/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/zachary-edgell-44851015a"><img src="/zedgell/zedgell/raw/master/images/linkedin.png"></a>
