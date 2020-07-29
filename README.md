@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://i.imgur.com/UoeoL7j.gif" width="%100">
+</p>
 
-<!--
-**zedgell/zedgell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello World. My Name is <a href="https://github.com/zedgell/zedgell">Zachary Edgell</a>.</h1>
+<br/>
+<h2>Here is a few of my GitHub stats.</h2>
+<br/>
 
-Here are some ideas to get you started:
+![zachary github status](https://github-readme-stats.vercel.app/api?username=zedgell&show_icons=true&count_private=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h2>The Programing Languages</h2>
+<br/>
