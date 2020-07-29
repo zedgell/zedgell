@@ -43,8 +43,8 @@
 <br/>
 <h2>My Certifications</h2>
 <div horizontal layout>
-    <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6hb&oid=00DF0000000gZsu&lastMod=1571903578000" height="100">
-    <img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rl&oid=00DF0000000gZsu&lastMod=1571914738000" height="100">
+    <a href="https://trailblazer.me/id/zedgell"><img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6hb&oid=00DF0000000gZsu&lastMod=1571903578000" height="100"></a>
+    <a href="https://trailblazer.me/id/zedgell"><img src="https://drm--c.na114.content.force.com/servlet/servlet.ImageServer?id=0153k00000AH6rl&oid=00DF0000000gZsu&lastMod=1571914738000" height="100"></a>
 </div>
 <br/>
 <br/>
