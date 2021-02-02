@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "* * * * *"}]
+  schedule: [{cron: "0 8 * * *"}]
   # Lines below let you run workflow manually and on each commit
   push: {branches: ["master", "main"]}
   workflow_dispatch:
@@ -12,9 +12,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: 67f99d81d99d962b7faee2a8e0001f96353810d0
+          token: ${{ secrets.SEC }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.SEC }}
 
           # Options
           user: zedgell
