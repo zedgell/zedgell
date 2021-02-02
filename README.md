@@ -7,7 +7,7 @@
 <h2>Here is a few of my GitHub stats.</h2>
 <br/>
 
-![zachary github status](https://github-readme-stats.vercel.app/api?username=zedgell&show_icons=true&count_private=true&theme=radical)
+![Metrics](https://github.com/zedgell/zedgell/blob/master/github-metrics.svg)
 
 <br/>
 <h2>The Programing Languages I Know</h2>
@@ -49,5 +49,4 @@
 <br/>
 <br/>
 <h2>You Can Add Me On</h2>
-<a href="https://www.linkedin.com/in/zachary-edgell-44851015a"><img src="/zedgell/zedgell/raw/master/images/linkedin.png"></a>
-![Metrics](https://github.com/zedgell/zedgell/blob/master/github-metrics.svg)
+<a href="https://www.linkedin.com/in/zachary-edgell-44851015a"><img src="/zedgell/zedgell/blob/master/images/linkedin.png?raw=true"></a>
