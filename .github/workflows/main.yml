@@ -31,4 +31,4 @@ jobs:
           plugin_music: yes
           plugin_music_provider: apple
           plugin_music_limit: 10                   # Limit to 10 entries
-          plugin_music_playlist: <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/replay-2020/pl.rp-8AAbiXyQgb0E"></iframe>  
+          plugin_music_playlist: https://embed.music.apple.com/us/playlist/replay-2020/pl.rp-8AAbiXyQgb0E 
