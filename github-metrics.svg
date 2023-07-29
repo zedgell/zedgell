@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1355" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1238" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1107 Commits
+                            1108 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            154 Pull requests opened
+                            155 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -296,45 +296,45 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAUHBgH/xAAwEAACAQMDAgUBBwUAAAAAAAABAgMABBEFEiEGMRNBUWFxsRUiMkJSgaFicoKR8f/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAbEQADAAIDAAAAAAAAAAAAAAAAARECMQMSIf/aAAwDAQACEQMRAD8AzPrO6ku9WkEShixAUbBk8Vy8tnfqQTauBnHMY7+nar+/vx9treTLuG4SEeuR2+K8uep4nkV44HRs7yhwyBuSNo8gGOR7KBQqkkkO9lc2k3CWqMVUTsdwXCZ2Y/R+LOfbtUNbLUHDMto7Be+Ixx/FdIOpJbzUEvIbOZ2iVkxHEGABBA8jg8/v80hNetYDKsttfx733sA2OcAdj6YB/gnBorGIodN4vlS6TgZ3DYAe3xRS2lW41iaaFm2OxZd3B7emTj/dFalCkzXIjFdyxkjK/d49hVl070lHqGkjVZ7gNGs2zwAMdj+Yk9vjyqF1A4kvZnC4DMWpXSi311NNa2V2LdI2Fw2RnOOCMZ5GD29qznevjLGdjRdS0KGztobea9i07KnYIUzAcdxux37ckDPrWcazZXcKzSeLaywIxXctwpf2yufoDWgdYT3Fvo9qlpcA+CBu5BUg9sdwQM+f0rJbhnkuWkl2l2PJAAz+wGKxxapvkfpI0qPddAkcc8Y9qKn9Pruuo/n0oro2c0hnUZPGKsjDBVe7D0quj8aKTfDJ4b/qWQA/WiipsUh22kmgeTDKRIpV1LAhgR58/wDKZELf0n/IUUVEWuiExXKliuP7hRRRUB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCCP/EAC4QAAEDAgUDAwQBBQAAAAAAAAECAwQFEQAGEiExByJRExRBFWFxgTIIFiNCUv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDes5ihOFsEgBxWlKgoEavGI8nNlPhyGkz1GMy656bayQVLV+BwPv8AGER1Ukwsr5lYoWW5MtlTSUuS3HXPVBcUQUix4IG9x5xxR2czZhr0SLT3Gamt1rW5qQE6EXsopN7fv74BrUx6nyatMfq9Td94hZUl16H6aACo6Cyb3SUiybnn5G++f665xp0uiyKRAkMvTEhDyQUElKSf9CBa+3kbYtMqx3aK99Lr0JxuYyVOsocQklxvc3Crbi/NibeMVn9kU2u55dTXyqM/PK1AsuWKu2wCV8WTptpHyPGAUGVcyzst1qLPiFoyW0qQtCv4rSTuk+P1vgw52ejmW4rLtCW7JkzQC/8AUGyEutmw7dNrEcGxvgwCM9eTmvOM2vy47ioPu0yZhQNQaaK9gftYWx63y8thMmeumut+5bIYZTbUiOhIT/iQgbJFgDbk834wi+nDUdbMCJFZaR7iYKe5239ygjWvWB/ygnf5uPGNB1NU1Rcnz6lRW3nKfUpftdfq6dHpp0pUCDc3CFpHn52tgN/nVUil5rbqkJyPU476m3JcB9wB2KlI7VNEkC197De/5xBz7BiZyi0lMVb8NTS3Fx9ICd+wlYUNz26iLGxtvjQZKapld6dZYRUY7MtcRtDLiXm+5BSLAKBF+PjCRy1WnqBnefBDriaEam6ymOSVNsKKlhBBP8bjt53wF1QctZipOZqst6pzFobZQ8yJM9SPUOsJCVqsSAUhW4BtbkYMMerSnKhVGqfS34zMkxfcFx1GtLg1aQ2bEHyrbi3GDAKLoWozKrLqNNipix4z7jsdl1fqaCpISRqIudrb84i/1C5pYmSKbRqWsIRCSXJbSd0B47JH5Avt8XwYMA4unmcKLOoUKPHlRnFssNpUG13UDYXSQTfnz+sU+Vcq0wS8x/VnzPptTe1JaSsoHaonuTbdQVwoH4vgwYCi6f5YqFD6j1WZVHHTS20rZgPPPai6nV2gJvc2QTzgwYMB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Be Original</div>
-                                    <div class="artist">Royal Bliss</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECAwT/xAAwEAABAwMDAQUGBwAAAAAAAAABAgMRAAQFEiFBMQYTUWGBBxQiMqHhFVJxkbHR4v/EABkBAQACAwAAAAAAAAAAAAAAAAQCBQEDBv/EACMRAAICAAYBBQAAAAAAAAAAAAECAAMEERIhMUETYXGx0eH/2gAMAwEAAhEDEQA/AKK7NZI4m6edLBdK0BMSARuD1jwpnxeY99W6p23UhM7oT8XOxG3oahU45TS0l2ZJg1aPYBqxZ7PutrdQh9LqnHUqMGInYTvsOB1oF1iqNUSlJY5CL5bFykxaqB1FMA76vDfy3jaojO2q7e2VcBDYCeHF6asZg2LTBaZKEXkG/c1EBOgSNPSJjjxNQHtDxTd1YNXCHnXbdQ7xptttITJ6FR6xv+9FpxYdsuIm/AGoAjf7lLXxduHlOPfMegA2A8qKZBj9SNLqNCh0KufWirHzCD8Jjrl27Z5JUy4QVdDzNSeCxN0zhXsrduJ0s6UI+EkuSYJH5eo3pPZcF3dN21oQXVqCYPH2pq7Q3z9wLPszhnQjum+8eWTA8pP19RVHiGfasd8+06LC0je0Djj1Mw8toKaNq6NbMfOJHnM9R/Ne5t566xqbVtlFyUL7wNKJAiTsAOJ48KXmcFmUSXXLVR8nD/VcbS9u8dlzbXCtFwyQtOncOA8TyKg+R3Q5kRdFDkGu5SNXz+zTMW34dkF2zqUrKACSBtJ3iiofN5q7Vf3Cb9YUsLIUgiAnw9Iopqo5UEiVTBAxB6iwm5V3iiSQeCDXT35IEKCu80kah155/WPrRRT9IMBrYTAymlKUwoKG8g7Hc/aubmQS4yU6Vd5wud52/wBekUUVIVqOpg2ue5HvPKWolSifWiiipgTSWM//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">On My Own</div>
-                                    <div class="artist">From Ashes to New</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAECAwQFBgcI/8QAKxAAAQMEAAUDAwUAAAAAAAAAAQIDEQAEEiEFEzFBUQYycRQikTNhgaHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APPMDS3Ckk9dVGFzvlojxFOfR9jZ7R/dXuG8NS8/Zm7UpFq9JUpuCpKQY6eZI60FLFzNKeVE7xJI/mo3smllLjQSobgjddj2Kbb076jevbuzHExZAtlt2McQ3ijUdpH+FcJ4glF/9beOOpbfTitLISSFJJggGdYiNeKChiIyREUUxhJwcPaigne00mIifH4q6m5Sm0YTy1FSTlzEA9OwMiNHxWfdKJSgQYE/mtz056iuuGOW6nLp/wCjZUJt0nS9+2DqKBrfEHXGLt555Rcuk4rA7knwNCslalhsoWnEx3qW+vLhy9uXUuKl1xSzgMRs9gND4FU1qUpQUsqJ/c0Dmf0VdIyoot55bgPt60UFkjIAKIjxUYZgkZiPiiigUMgK94jzSKbnRcTHxRRQbj7PAE8CKmL67PEuWJZLA5efcZT067ooooP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Rock Show</div>
+                                    <div class="name">Heart of Novocaine</div>
                                     <div class="artist">Halestorm</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHCAP/xAAtEAABAgUDAwMCBwAAAAAAAAABAgMABAURIQYSEwcxQVFhkSKBFCNCcXKhwf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAgMGAf/EACIRAAICAQQCAwEAAAAAAAAAAAECAAMEERIhMQVxIjIzUf/aAAwDAQACEQMRAD8AwCRpc5Ot8ksyVt79m64Fjj394du6eqLTq2gyla0KKVcawraQVA3scZSY8aXUZyQUDJvqazuwARe4PY+6R8Q9Znpu5UHDvJJv29fT+SvmACwE19dDv1GT1Gn2ELW8xsQlIVcqGQRfGc4N4cN6aqrm60tYBJV9SgLiwOM5wRFiVStRu0VU4qSmVU9SSeQpxtPe3kC3kYiIXVqg2yppL6khVgfOB2tft9o5vA7kxjuwO0g6SGqNLmpBKVTSAgKJAsoG/wAQQqem5iYQlEw5yBOQSkX+e5giWv8AJQayOGiGRmH4cDLDjuNyU4v6xHtKzF+0T0+qWq2Gpvlbk6aHMvLG5S9vcJT5z5JAiAUs4EMsyFpx2YnQ6SWfHURvQ7FYVUl8I/N/DBKNwY2gAkWyLfp8DMZ7yiZlGniRvOFW9Y6oTRmmqG3S+VxbCGeEqUfqULWv+8YHrbQNQ02JidZcTN0srvyAWU2SbWUn/R/UE3puXrqI/EZC1XlS3DSgzAzBCXzBA6jiOLiN080KtHT/AEbdCun1JFha7qfvyKggi+kfKKvJEmge5d1gG+cRRurTwRoWr7QCAhCfuVpggi9/qYnx/wBV9zmBarwQQQGBNKxOs//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgADBQcE/8QALxAAAQMDAwIEBQQDAAAAAAAAAQIDBAAFEQYSITFBEyJhcRQVUYGRMlNysXOSwf/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAAC/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECAxEhBBIFMRMiQf/aAAwDAQACEQMRAD8AQae+bxX3GbTbLZJZTna45JUlaj2BTjA9eTj16U+F11fb4e52x2rO5IbQJijlPOe2c9Mce9GtDRnZ0OPKddbhsLCgnwzvW4ff0HaumxG4kBlsOulttKd3iPrAJ/PSuXfFr2MdfUITr9q+NseuVmt7EUpIUpt8qWnjggY59uMDuTQOTNn3RxxqDHd5ypS0teRB+qjn+6Za413ZGgpqO182cCTsDaS4jd2BxweeuTXJL5c9TahT4NxnptcDHljNYbSB6JRj/tTuU7nipZHxgq1mx4CWt48GHuTcriXJA5EdlIxnvkg5+9VZ02O1RFbktKlv5/WvB/vgf61U2Hj5Y+8tgfLhHUUKrRqXXcuMiNb2IVkaHG/ZvdSPQc4++KyXOyeEkyNR3Wbc5JwnZIdwCrsAhJwPuTSASmY4Ma143D9UjGAn+CemfU0Uv8hAkAbjsZGMqOTuUeST9cVZVwqq/USezkzl+hlzVEiI+pqM4GWUHyJQkYA6cAjFepepri42l5TzLrR48RDQA9jjkH0rV3DWkXT8lcTTuno3xEcltyfcB4ilKHUjJwkZ54xWsfuXxEJF1gltFxIPx0dtIDS+T5kpI5GMZA4HOKcppaRPhvbEw1PJx5mkL/xqAP4Iqoc3Lj3IAxlJjSf2lK8qv4qPT2P5qrr5AdWdWm3Bu3xVNtncodT9TXK9V3h9wKBcUEqJJ/FVVGx4izR2zX3T5mi/5RayubIT4jbTrHiLx13BvtwO46c+teyyWx1+5qnahnMJaS2XHW0OFSwnGMkNYAHoVJz0qqqNttsekH7u7B+bylWZT3wBXlkup2qx7ZOBnOBk4HeqqqgnozR//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Go to War</div>
-                                    <div class="artist">NOTHING MORE</div>
+                                    <div class="name">Rockstar</div>
+                                    <div class="artist">Nickelback</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgECAwf/xAAtEAACAQQBAgUDAwUAAAAAAAABAgMABBEhBRIxBhMUQXEiUZEHFWEjMjOBsf/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAbEQADAQEBAQEAAAAAAAAAAAAAARECIQMxQf/aAAwDAQACEQMRAD8A8shW5vZJ4hO8ZRgulzsg4/nGu9Ktx9zaRGW8lOmU+WFLEq2R2G85xobxW9xNPa30kinobIbrHcfSRr8mozw3w/Jc1b3U1pKzPEpfoLnqcDHUQfbGR3pKl0nnL18JeTiVYknl4o2Zc+X0aX8nOMffdZtOOvLq1Bt5QJAVy0jdIYFQRj/eqrUV3O3EuvnSf5gS3UewBq5njYrfwPFy9lcXnrIpUjn63VkHWMjA7juDn5oNpDZ83qz8ErH1trOqXHV0sfpcN1AnGdEGik476W4v0SV9Kxb5OAD/AMoowmyR50Rryuz/AEs4bXYY3UHwnl2YuPRX7s7xsqmOM/RnTH8U9yzFr+4XJwCRv4p/9FeQSz5m7SSRYw8LE9SB8qASQFPc+1LrmSvlmuWFdlgtY+L6Uu1MZb+8L7j2wd+9SEU9vF4UjtfVTsXnViRGBH0gHXfqJz99DFQfISCTjJZIwQsl2xUEYPTjWqsU6cWP03juFSX9x85Y0G8MMZLEEkYGxgAHO6LnKHKfYzhxtuJOcRS402Mn4orhxUxXnEDEhS29fxRWZIuXIeHn9S9xHHJNE6hsqmRsdqR47i7uzlccba3EJlBWQrGMsuNgE7GqKKAz4+HC84G/ESLNxspj2w6ol9+5BrWW0voLaECxkEcTNIi+SvSCRgk47nGt+1FFFMX5UIR8fe3N1NetC4yxaRgmFU7+3b4ooorDJH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EACsQAAEDAwMDBAICAwAAAAAAAAECAwQABREGEiETMUEiUWFxFCMVMkJygf/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAAL/xAAiEQACAgIBAwUAAAAAAAAAAAABAgARITEDBBJREyJBkbH/2gAMAwEAAhEDEQA/AFPT+m7ddrXOcnNTnlR3m1kstrWEtZ/YVbQfAPz7VBt+nran+MacMqTLlF1bTaGXAhxHZtSFBO7HpVnA449jTPYrq3bDNZlsS3ozoC+k0E7VEBQBJOCkgn+ySD4wc1KharXHtNthQ4LiJMVgstyumlxxgKJ3hAzhQUCBk4I596H3kRK8LMAQIswtP2h63icuPdDb24jiZMgNOFKJQUAOQnG0A/We+OK8ytNaeRDMuVGnNwlqjll8JcCFJUAXMkjuRnGPjkVXWm8zrdeW30vLejNtqbTGVyo7yoKSEdxnKuD5z90y6juDN105a7aqLLYkW5lCG8BIQvAwoKTn/oUOfBHasWN7nZ6dhoXF7WOl4tmaBRbZ8VTklXSVI3JCmdiTjBGAdxI7ngee5KY9ZyomobimTGZksuOcqbcZQgEeOUk7jnPJ5oqitYzDcgKNRk8qegCbcYzYlSIIYkNspBV1P3JJTx8cHFX2rrgqTEblhMQvRFNMrgsOqUlte1alHGE8kEDkH5pZ1TMXZ4s6Qw8pDjbCSegrarHUAGPYVmqL5d75fgY5W2p0lSkNeo7QCVHJ+M5PtQkLOT4j1b00Ug5+PszZUytNNNOW5MSEShgzhdN6SVME5DQBO7qbuNvYD5NS9IT3Icb81xERcp0upahOuqCVLSUL9PCudoI4A71lQbvKyhhsSlE4RtBUednt/t49ue1Vrt4vmm9QOIuCHfyGuem96FAKSNp+8Y8VlVn1KPydvtJwdzUmYyriLfNmMhl+4NLeeaKPUyVvL4AOOQPfFFdtGy13SEw+tbjrjjCVJ6x3KI3LHPzz3ortHsZgepocmc6/JizExN2lT3bvdHmVPYUdrZWHSOwIB4A8e1d7G2uBOamW2e/GlMnc062nCkHH38miilBRkSnGLq4ys3rUKogjrv0/pKjmMpOwE7CQSN3c8/5ZzgYziqC+suTLguZc7k/KkLVhxx5GV4AATnKsngYoorAAalHUVJ8C6KtL8F6z3B1ZZSFDLZT01HlSe/Iz9UUUVzQ8Qrbn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In Love with the Pain</div>
-                                    <div class="artist">Black Stone Cherry</div>
+                                    <div class="name">Ain't Gonna Wait</div>
+                                    <div class="artist">Blackberry Smoke</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIEBQMBCP/EACcQAAICAgEDBAEFAAAAAAAAAAECAAMEERIUIVEFMUGBIjJCUmFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABoRAQEBAQADAAAAAAAAAAAAAAABAhESIXH/2gAMAwEAAhEDEQA/APm6tv7mh6ViZOfnVY+DQ1+Q5/Gtfc67zLU9psYeTdjemXNi3CkOONrA6a0fwUjvrz8eZLeN4z2tDEwOuyAmRd09y7WwcS+iN+P8lHKx+kyWr5hwPkDR+xKGL1FFyo20FwDDk2gR9SFlwTJKjZUduRO9/czOta8b9WLT2MTg1qt+kgmJpzVFMci7rWCdDch+3tJYVwx7ku2CyHfEj3itZXb1OUptvu4njxQeNdgNeJmhypO/eevdz2zb5lt7kHZWO1Gj895Yl910VwCD3icgNxA7KYcAKxAG4iQVoiJRKIiB/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUEBgEHAgMI/8QAKxAAAgEDAgMHBQEAAAAAAAAAAQIDAAQRBSESQVEGEyIxMmGBBxRSocGi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAiEQACAQQCAQUAAAAAAAAAAAABAgADBBESITETIkFRYXH/2gAMAwEAAhEDEQA/APOMyvBKY3GGGxrgzFiT05Var3SUv17yIcBUDhP5dfj+0luNGvIpSrKuOoNUisOjFlDIDMTjYgcs1sH6dWKsJri4YKrrwjqPelGgdk5rq6Q3jKsakYXzBOMgHpmtkW72dlaCVLYyfbxHiRdiNwMGpLq4AXUDMotqJZsk4lX1+wb7gPC4eWJAxLDZl5EHrvRTPW9bXUYYWiTuIm2dGPP2NFIo7a8xtw67/Mkdpba0gSdrGJ4WSRVbBxk59/IY5edRe0WnixQ962eNSSRjwtjy/dMdSuo30SaWFInuBEZwxHlKGGWx1ApdeXUZ0e2t57d7sTxgtwN1YAtn8tz/AGhVWBH1Cd1K/sY6He28E6M6lhxdy6nGG8ORn5rr7QSRSW00EUT28md+7b1DBAb3qsG6+3khAVhF4djjiO+OR3OQM9BipN1qCTyRymGUPjgXJHpKrud9tz/k1mobHaZK+np9otd5hFgAqvlscg+46UVMt7drq6SMWsgUsQWyCoAzvn4/YoqxU4k5GZa9Z0LUdM41uYZUlbKtwrkEc6qwmuLeGKApJwxE48GxyaKKd41iNiQDMvpUUlwirGWhdSfT4lY55/NT9H7Iz3E0Y7t2AyB4eVFFDTURjGbG0XsetnEJGjKvjHp3xRRRXD3DHU//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">God We Need You Now</div>
-                                    <div class="artist">Struggle Jennings &amp; Caitlynne Curtis</div>
+                                    <div class="name">Nothing Left to Lose</div>
+                                    <div class="artist">Deepfield</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EADIQAAECBAMGBAQHAAAAAAAAAAECAwAEERIFBhMVISIxUWEHMkHBFBdCkSRSgbGy0uH/xAAZAQADAQEBAAAAAAAAAAAAAAABBAUCAAP/xAAeEQACAwEBAQADAAAAAAAAAAABAgADEQQSIRMiMf/aAAwDAQACEQMRAD8A4xkbKeGYzggmp3X1dVSOBdBQU7d46JlvwvyZNOFGJjEEhXlWiYAoe/DC74cpTL5bSi66rl/LqlJ94bmZwtHhJjwuR7F/Q5LtPNU1Q9D7GL5GZB079afs6/GJ/rCjmTwvyZKuBGGDEFBPmWuYBqe3DDRMT7JkUTEm+VthKUutqPG0vv1SeYP6RhvTmqeImEuejo9a7kgTquKoHT9nL88ZTwzBsE+KktfV1Uo411FDXt2gjd8UHArKxA566P2MEU/ok7uRUsxRko5Qm9LB0pJpxD+CY3NpNi1KvMfS7nCDgk7+BFBaAQnn0SB7RYmZhwutvMqGogUtUdyh07RUShSgMC9/keY97QZsNt1fUViLaKbTu39boTpXFW1uJJKio1SpseYH1H+xI5MraWUKdQ6PpWjcCPTd6GCtCE4Js95A2X84zjLmEBMwm9vUFRWm+1VOXekELWZJku4aU1+se8EJ9VYV8EWtv/KfUw5OcDDNhu5kxPtJPVX2ggjAtcDNi5QE7PapnDlsaqi+Zv8ALpiz71ry7R52kgAAXU6UgggC1h/DCUBkE7OJfZsBVzB3wQQRlnLHTCFAn//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Redemption (feat. RIELL)</div>
+                                    <div class="artist">Besomorph &amp; Coopex</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAYIAwQFAf/EACsQAAEDAgUCBAcAAAAAAAAAAAEAAgMEEQUSEyExBhQVQVFxFyIjMkJhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQID/9oADAMBAAIRAxEAPwCqq63SsTajqXC4XuLGyVUbC4eQLgLrkrJTzSU88c0Li2SNwe1w8iNwommVHGtHJSzUUM9NVRjXZPl+X7XckubbgHm3rdVmxvWGMVoqjefWfnJ9bm6sZL13gzuiG4zNVNnq+za2SNgse4Iy5LE7G4J9t1WmeQzTySO5e4uO/qs/hyiraPfoQCxIiLTZoiIkpLHWub0DLS9vGWOrm/VLTmacpOx4429lG1LHvi+FkTARreMOJH60QomoVbxERWkRESWwaqQ0IpLjSEhltb8rW/gWuiJIiIkv/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Cuff the Criminal</div>
+                                    <div class="artist">Disciple</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -345,26 +345,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAECAwQFBgcI/8QAKxAAAQMEAAUDAwUAAAAAAAAAAQIDEQAEEiEFEzFBUQYycRQikTNhgaHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APPMDS3Ckk9dVGFzvlojxFOfR9jZ7R/dXuG8NS8/Zm7UpFq9JUpuCpKQY6eZI60FLFzNKeVE7xJI/mo3smllLjQSobgjddj2Kbb076jevbuzHExZAtlt2McQ3ijUdpH+FcJ4glF/9beOOpbfTitLISSFJJggGdYiNeKChiIyREUUxhJwcPaigne00mIifH4q6m5Sm0YTy1FSTlzEA9OwMiNHxWfdKJSgQYE/mtz056iuuGOW6nLp/wCjZUJt0nS9+2DqKBrfEHXGLt555Rcuk4rA7knwNCslalhsoWnEx3qW+vLhy9uXUuKl1xSzgMRs9gND4FU1qUpQUsqJ/c0Dmf0VdIyoot55bgPt60UFkjIAKIjxUYZgkZiPiiigUMgK94jzSKbnRcTHxRRQbj7PAE8CKmL67PEuWJZLA5efcZT067ooooP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgQFA//EACwQAAIBAwMDAwMEAwAAAAAAAAECAwAEEQUGIRIxQQcTUSIycSNhgbFSocH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EAB0RAAIDAQADAQAAAAAAAAAAAAABAgMRIQQiQRL/2gAMAwEAAhEDEQA/ALZpQ1qS+uHgv4EjmYMA6Z5+Bx8U1wm+RQJnhY8fUMjPycY/7SBs/XxFHGbwEyuSc5/inpLoSRh2YqDz/FFbFxfR2aZ3LytGFYKzEnsewrh6lBNBYzTW80ftspJbHKjzit65voYy/S2QOeD/AFShebhgn1uO2t5ilvChE0qx9YV2x0r8Z4zz2qVtSeMqqhJLUuE+3UlmvutLcLZsVYqjMXDt5Ge68duCDRU93Tu4r6jpdR9M1rbThSjrlZAAQeoHjByeKK0Kq4fkdPy7IvEVPatwIbMX+oKEtI0V1cHKuWHAB800aPu24vIpldT0yI/t9J4GBUO2b6gWk20YdI1GyKw2gMtv+r9UsufqHxjngY4xVB2zqjXt3ZyS2r28VsCfbKFc5zz+/GKK6E7OomodSXsbeo7q2rqWnm6udaliKqOqOGYxuflWGPA4yOTXGsfVPaFpZ3MVpG1pZ2zAx25UlrnI5bPOTn5NIfrVt2Cx1CDV9PAtrbUOoyIVIHWPudfGD/dSZzE86RwTdzjqfgVEqZRfUPn5EUsTHpjJvTcmp6vaWjIIYxM0S/4KAo/J7H96K19CTWrGW2NozWUsDEEo3LjjvjgjjySKK1qqXGPUZtl+y4eZuIlurNI4wvQpZnCqOSf9H8U2ncs2lRx3czStFEwYhSRkdh28dqKKen6sR9R09X1Sw3/pFtf6xqwN0iPaw2CoFzIcEeeFxjJqMXekjTtzSWGoRsqROPcQNg9OM8H8GiipbMaXPoaGnWNQt4dvxyabcSEsoja3OPct4xwGJH3Bvnx570UUUNtsk0kcxH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Here's to Us
-Explicit Content</div>
-                                    <div class="artist">Halestorm</div>
+                                    <div class="name">For Those Who Wait</div>
+                                    <div class="artist">Fireflight</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcBBQYD/8QALRAAAQIEBAUDBAMAAAAAAAAAAQIDAAQFEQYSITEHExRBYSIjUUJxgdGhweH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMCBP/EAB4RAAICAwADAQAAAAAAAAAAAAABAhEDEjEUISLh/9oADAMBAAIRAxEAPwBP4dwTU63h+pVKlsJdRIpCnkZhnAN9QNztGf6N9tsvXAT31EbThjjSYwniZqadOeSe9qZb7KQe9vkbxe8eMMIw60a1QkIXR6sQULSAQ0T6iB8X3BHkQy7gpQTihWy6kTKVIbdHNHYjWI6FSllBQeZfxaIp0g1yy+ETPUNFHoCQSoqve3iGtwcwqxiarPT8+kpplPN5gqOiiNct9rfMJOw8eS9vhh61gqqUaiSFSqDBZk56/JzKF1W303/cEbPiji8YjxCA3boZX2pZvYJSO/gmCGTyaxlSQqm87zuVPfzoIfnFCZTQeAlKoNSWhyozJSEpvct5TmN/gi4H5hQ8PaBL4txA3SHp5Egh1tauoWdE5Uk63+0UFYqDrYepcw6H0sPEB5Crg2uLi+994zZaHzj2ZMjVBKsIQoLLqUAIA+rVX7h3cLKozOcDazTZZ5uXn5VaiU3CVOZrEDyTYj8Qgec22qXdyheTNew300/mLPBs1MDE8itpwNJL6c5KrJAJsb+IOcKYcu0lGfP0ianl85RNwoHXSCNhxOwuxR8WzsozMtrK8rwyjT1AH+4I0ceRayaF3LIdSolBAI82jpTKgzJF3nyLMy4pQKVuahA1vp33gghCt8LtGLLS5ZVLyXKuVZOm0voPnXQbxWTVSYmXkOS8m1LrbUpRW0MoI7af7BBAhtnVmpFbyn5pRcUB9RvBBBDM3Z//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBQEEBwL/xAAvEAACAQMCBAMGBwAAAAAAAAABAgMABBEFIQYSMUETUWEHFCKBscEVFiMkJTJx/8QAGQEBAAMBAQAAAAAAAAAAAAAAAgADBAUB/8QAHREAAwADAAMBAAAAAAAAAAAAAAECAxEhBCIxYf/aAAwDAQACEQMRAD8Ad4b9SPiHKTUzTgb7H0zSwbvJRtseRP0rNzfTzyI9ukQhjU8/O4Bc4GMeWN+vXtXBXTsNDJ7xscAj5VFYah4LyJHGURW2yf7eZqhs9SvGRgLeJzk4/WHT12rZguZpFInt0jbzVs1NP6e/g0WmoeNOw3C486KX7a6eEkgA4opK9fQuRB/HrRYV8KYSRBskSRkbfOq3VeK7WMCPTZ4pbqdwkagZ77nHpXUpbKK4jtoIQigMsjZHZSD9qTOLuHLTVnt3hMcF9E0skbhfiUCSUnp2yKUKX1jVd6c+k1vULf8AeLO7TIcgMdmGe/rTpZ8WWxhs2LjnmHNNhjmIbjJHfeq+w4G1XUL2OO9ktYreUGR5Y2JyNsgLjYnPTOK6Foeg6fpmpaibVF53SJGJ67Anp0G5ztTtTo2eTlx0vUWfzXo+D/LWzL58xP2oq34W0TT10iJPAi8N3lkwVGRzSMfpRVTU7MO2e7viy1tYswjnbGBy/elG64mS6uI2Ei2ywSNLmMY6hsjPXcnP+0UU5RDSn9oreLGbFAiorKssrZO+M/D07DrVQOPtWhurq4S7gczsrFTGBnAwN+21FFaJxyVOmTaV7Qpk0+3SSXlblBOPPv0ooopVgjYFlrR//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Boomerang (feat. Jay Smith)</div>
-                                    <div class="artist">Smash Into Pieces</div>
+                                    <div class="name">The War We Made</div>
+                                    <div class="artist">Red</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAf/EADAQAAIBAwMDAwEHBQEAAAAAAAECAwQFEQAGIQcSMRMiQWEUFTJxkaGxJDRCQ3OB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8Azd69Qd30m+LnbLVc6rsFc9PT08cUZ/ywoGVydQ0e7OpFZVMkd2njRSyEypCo7hkYPtznIPGPjSvvKrNJ1gu86qHaC6PKqtnBKtkA4OcarXXc9x++SElEMc9QZyFzhWZyxxk+Mt85+ugfLJurf1yjRotwwl5oBJGrRcKQPcDiPlufAJx841foNyb7nCp9/q0vqR5P2L2hGCls5UEEd68fOSPjlNpLvfJaWpqqIRzLaEjX1hEq+lG+eSByQfPdzg/POjb+8LrFL21FXE8EjIJGcOSiggZUjwcDH10HSqa+bpodzWWCrvctXT1NyWlkj9JVHYWPk9ufA+n56NIez93Pd9+2WCspI3Z7lGyv6snsbuxkL3Y/bRqhT6jsydUNxsMj+vl+PqdL1xd5vQmcclcH9dNnU6kabqBuBlHu+3SY/XS/BTdrMk3eVUMVXHk49v58/wDuNQMOw566kVq6naTFRmlIVchkUAt3cfh5HJ1HV3K3R269UMUFOkslwWqgePgooLBlVhx24xxyM86xppqpYaWhfimj/wBSLjuycktjknOf01PQNjaVWhpo/UeQSrUGJSwCgjtV/IGT4A5PzoLnTfvk6kbZcRxoBXQj2N5w3kjOc6NR9MVB6i7YbA/vof50ao69uvp/dbhum6VkVsuEsc9Q8iyJPCEYE8cH3AfvrLl6a35Jcw2qYj/qgH86NGg8oOmF8avepntkkL4EaH1FJHccFvPwuT+eNY1b0o3I0sxp7PKsTk9qeonA+B+LRo0SrWyOme6bXvOx1tVaHipKarjkkf1E9qg5JxnOjRo1Cv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAUCBv/EADAQAAEDAgQEBQQBBQAAAAAAAAECAwQFEQAGEiEHEzFBIjJhcYEUQlGRFSNSgqHB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAD/xAAaEQEBAQEBAQEAAAAAAAAAAAABAAIRITFB/9oADAMBAAIRAxEAPwBovP1BNSkhc19EZDi3AmyT4QnZI3vbfuOwxF9HVm9boqU1SUyNGgBHiSNz17WHvv1wlM6cXanDzTXaWzRqe41TXnhrdkutrcSFAEgBYBPQ2HxiFPHqoJjLdNBjM0xRX9M4surLjgSAUKIWB5T8bbYzmGd0TxZj1J0OOO1aW2EPJTpKUK83bbba/cX29cQcypJK3UTZS2+WUkHQAhdgLi+5sVd+4wiF8canqltR6JThHQeaC+682pYTsLAr62I2Bxst8XBGSEV3LTkdS0hWpl90Dex8qj/3FdZSnKM4okaoqqbapNTl8nnBOghFnAAolJtuB09cGPC5P4g0WtV6CxF5fMdeSnlrddQ4lV9iAo2V7DBgHv7Mcop1eplezDU6I/ll2orYeU2ohpDwIBtfe2n93xk17h1kf+g3MjrpKnlHSDIW1pVbewWSm/thk5IlU6pvVf8AjYoMlE5bMlTZ5atae6iNyD19cVq1JpGY8tulqVHKGZf06ee1rCHuxss+L8gHGk6EGvspczcIk1GMuTAzDLmqPjDb60rDhCdIssWF7ADcbgWuMWIuYmKPQI9DzvHjznWGUNcpKC4pIt9xIsLDuCb42ajkjMankOtV1t/T5WyFMhP4KQnZPxii7VZ9JkIp3ECjJnwiLNzdAcI9NXf/AEffEa0pynJ7bGWG8k1OqUiPl9iLFejTUS2wpZS+V9x4uqSOydsGOMoUHJ83NNOlZfmFuRGfQ+lhK/CoX/tULj4ODAMpb+W6GIlelz6fDmxpT7ilLkNlSEub/cCdKh8Y4zdw7m5kRrdnz2VoUXEtlCS2FHqbAJ3P5O+DBhuxp7ebHD/O9NbWml1F1WjyJ1qQD/ibp+MW6JOz3HUI+YcqPz2fKpaW0g2+LpV+sGDFVuC2qdk2BMzPSatFpE6kSYchLy0LZ0IXY7i17fq3tgwYMF2Xl//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Like It Heavy
-Explicit Content</div>
-                                    <div class="artist">Halestorm</div>
+                                    <div class="name">Pray for America</div>
+                                    <div class="artist">Old Crow Medicine Show</div>
                                 </div>
                             </div>
                         </div>
@@ -403,45 +401,21 @@ Explicit Content</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">mesh-tech/svc-canvas-apps</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49b08ec</div>
-                                        <div class="message">Merge pull request #16 from mesh-tech/feature/AD-334-deluxe-check-ordering-ne-bank
+                                        <div class="sha">#b3cf008</div>
+                                        <div class="message">Merge pull request #17 from mesh-tech/feature/AD-334-deluxe-check-ordering-ne-bank</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6068a4</div>
+                                        <div class="message">Update XML parameter source for DeluxeCmp.vue
 
-AD-334 Add Deluxe check ordering capability</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a44980</div>
-                                        <div class="message">Add Deluxe.vue and update upload_signed_pdf.rs
-
-Added a new Vue page, Deluxe.vue, for better user experience. Also simplified upload_signed_pdf.rs in the Salesforce handler by removing unused 'convert_case' library reference.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f46bbba</div>
-                                        <div class="message">AD-334 added missing handlers update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f60e99e</div>
-                                        <div class="message">AD-334 Added PR to lint and test build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#289f06e</div>
-                                        <div class="message">AD-334 Added PR to lint and test build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad27e44</div>
-                                        <div class="message">AD-334 Added PR to lint and test build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#285a8d8</div>
-                                        <div class="message">AD-334 Add Deluxe check ordering capability
-
-Introduced a new DeluxeCmp.vue file to add Deluxe check ordering capability to the application. This includes a form for requesting order checks and a loading screen. In the backend, made updates to handle incoming check order requests. These changes were necessary to support check ordering for Deluxe service which was not previously supported.</div>
+Changes made to the XML parameter (base_xml) within DeluxeCmp.vue, shifting its source from signature.value to signature.value.context.environment.parameters. This amendment was necessary to align with recent updates to our system environment, ensuring that the component continues to pull the most accurate and updated parameters.</div>
                                     </div>
                                 </div>
                             </section>
@@ -454,12 +428,12 @@ Introduced a new DeluxeCmp.vue file to add Deluxe check ordering capability to t
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#16 AD-334 Add Deluxe check ordering capability</span>
+                                        <span class="issue">#17 Update XML parameter source for DeluxeCmp.vue</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">mesh-tech/svc-canvas-apps</span></div>
-                                    <div>10 files changed <span class="code">++267 --2</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -467,21 +441,16 @@ Introduced a new DeluxeCmp.vue file to add Deluxe check ordering capability to t
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mesh-tech/svc-canvas-apps</span>
+                                        Opened
+                                        <span class="issue">#17 Update XML parameter source for DeluxeCmp.vue</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/AD-334-deluxe-check-ordering-ne-bank</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a44980</div>
-                                        <div class="message">Add Deluxe.vue and update upload_signed_pdf.rs
-
-Added a new Vue page, Deluxe.vue, for better user experience. Also simplified upload_signed_pdf.rs in the Salesforce handler by removing unused 'convert_case' library reference.</div>
-                                    </div>
+                                    <div> in <span class="repo">mesh-tech/svc-canvas-apps</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -489,18 +458,14 @@ Added a new Vue page, Deluxe.vue, for better user experience. Also simplified up
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Created new
+                      branch
+                                        <span class="code">feature/AD-334-deluxe-check-ordering-ne-bank</span>
+                                        in
                                         <span class="repo">mesh-tech/svc-canvas-apps</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/AD-334-deluxe-check-ordering-ne-bank</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f46bbba</div>
-                                        <div class="message">AD-334 added missing handlers update</div>
                                     </div>
                                 </div>
                             </section>
@@ -510,7 +475,7 @@ Added a new Vue page, Deluxe.vue, for better user experience. Also simplified up
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2023, 04:14:22 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 04:12:41 (timezone America/New_York) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
