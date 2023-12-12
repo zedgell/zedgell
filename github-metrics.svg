@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1135" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1168" class="">
     <defs>
         <style/>
     </defs>
@@ -30,9 +30,9 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1299 Commits
+                            1300 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -234,55 +234,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMFBgcBBAgC/8QAKxAAAgEDAwIGAgIDAAAAAAAAAQIDBAURABIhBkETFSIxYXFRgRQWUpGh/8QAGAEBAQEBAQAAAAAAAAAAAAAABAMFAQb/xAAeEQACAgMBAQEBAAAAAAAAAAABAgARAwQhEjEyIv/aAAwDAQACEQMRAD8A5rsMEExrPHijkZYd0YkfaN25R+RngnjOnye1Wx6STy9BMxnddwO5lUIhAHrGRksAcHOozQxSuwEQ9T+kc+/xqxq+zSWDpqW4SsruAqq2AcyNwF+uDz8fOiZ38MO9Mdrr6Q2vBG1umLWl9mlnaXy1JCRBBtJZc4AVt5JPOf0dIx2K1UDRQ1qireOsljk2PsaWNYwRtw5ABOSDjk8fGtX+o9TVNqkvssKrBCQFLzIrk43YVM5zjnGNSjo6jpL/AEiXGaFWmpHGY3GFEgxtyRzs74HPGpO5QWWsfJRUVjxKMr/qOko6SamW3yxzQtCH8VCctlmxuBJ2sBgEDjI0aW6sd5rgzGGGKKLECLF7AL+R+SSWOe50adj/ADAZBTTPSxEd1t00sBeGOdXOOSwBBOB3ONXNd7n07VXpqllintQiAo5QhZRxufCkcMSQDkZG331UXSjBK22zVFMTSwVKSOyybSyhgW9/Y4/WpHU9NVy3+7U38xKWmFUxUNyHyeGGOCCDx9jQNnGrvZNVNfRDCvC3OgaW5WybpNauL+AtIKTb4LRKHEwOA5XGM49z+9QO2y0EF8t8iyR09DWQkSO6rFG0Sn0yZ44B3jJwSOCM41Gqm8yWXp6ooX2ijlkQbl9TYXgAn2HOCfoag6QVHUl7pKCjVgjMSqs52wRjBLt2wOSe3zo66xydJ5G7WVcC+B1jG/qxhLX1U1PEi0s0rSp6sthmOCfsD/WjSvVqwJXV3lxNRbw6pHO/DMFAUNj5xn6OjWri/M89nFPPVkgjkt9EWXk1apwT37/f/Nb1wvNXNS0dBMUkgdygLL61VWAAD+5H2TjHGNGjRm681F/lB55yN619V4c1L48nhpHI+d3JOe576fbl1BPb/M7Pa6ajoaNV8OQwRkSTLkZDyEliD3AIB0aNdeTQmoy3mnihoa4qmT4wXkn/ABBz96NGjV8XyE2wPYn/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">We Are the Others</div>
-                                    <div class="artist">Delain</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYDBQEEBwL/xAAtEAACAQMCBQIEBwAAAAAAAAABAgMABBEFIQYSEzFBUWEHInGxFBUjJUKBwf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB0RAAMAAgIDAAAAAAAAAAAAAAABAgMRBCEiUWH/2gAMAwEAAhEDEQA/AHeG+Uj5hyk+9TNOBvsfbNLBvMlGyMehP2rN1fTzyI9ukQhjU8/O4Bc4GMemN+/fxXBT2dhrQyfiNjgYFRWGodFpEjjKIrbZ/l6mqGz1K8aMgW8TnJx+sO3vtWzb3M0iss9ukbHyrZo00HwaLTUOtOw3C47Zopftrp4CSAGxRTq/ZDkQfz60WFelMJIg2T1IyNv7qt1Xiu1jAj02eKW6ncJGoGfqce1dSlsoriO2ghVFAZZGyvhSDSZxdw5aas9u8Jjgv4mlkjcL8ygSSk9vGRUwpfbHmu+zn0mt6hb5vFndpkOQGOzDPn3p0s+LLYw2TFxzzDmmw5zENxkjzvVfYcDarqF7HHePaw28oMjyxknI2yAuNic9s4roWhaDp+malqJtUXndIkYk77An6Dc5p7U6NnIy46XiLJ4r0fB/drZh65J/yirfhbRNPXSIkNvF03eWTBAyOaRj9qKqanZh2z3d8WWtrHmEc7dhyn70o3fEyXU8bB1thBI0uYxjw2RnvuWz9aKKeUBpT/EVurEbFAiIrKssrZO+M/L28DvVQOPtWhuru4S7gdpmVipjAzgYG/jaiitCxyVOmTaV8Qpk0+BJZeVuUE49fPaiiipeCNiLLWj/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The War We Made</div>
-                                    <div class="artist">Red</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAf/EADAQAAIBAwMDAwEHBQEAAAAAAAECAwQFEQAGIQcSMRMiQWEUFTJxkaGxJDRCQ3OB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8Azd69Qd30m+LnbLVc6rsFc9PT08cUZ/ywoGVydQ0e7OpFZVMkd2njRSyEypCo7hkYPtznIPGPjSvvKrNJ1gu86qHaC6PKqtnBKtkA4OcarXXc9x++SElEMc9QZyFzhWZyxxk+Mt85+ugfLJurf1yjRotwwl5oBJGrRcKQPcDiPlufAJx841foNyb7nCp9/q0vqR5P2L2hGCls5UEEd68fOSPjlNpLvfJaWpqqIRzLaEjX1hEq+lG+eSByQfPdzg/POjb+8LrFL21FXE8EjIJGcOSiggZUjwcDH10HSqa+bpodzWWCrvctXT1NyWlkj9JVHYWPk9ufA+n56NIez93Pd9+2WCspI3Z7lGyv6snsbuxkL3Y/bRqhT6jsydUNxsMj+vl+PqdL1xd5vQmcclcH9dNnU6kabqBuBlHu+3SY/XS/BTdrMk3eVUMVXHk49v58/wDuNQMOw566kVq6naTFRmlIVchkUAt3cfh5HJ1HV3K3R269UMUFOkslwWqgePgooLBlVhx24xxyM86xppqpYaWhfimj/wBSLjuycktjknOf01PQNjaVWhpo/UeQSrUGJSwCgjtV/IGT4A5PzoLnTfvk6kbZcRxoBXQj2N5w3kjOc6NR9MVB6i7YbA/vof50ao69uvp/dbhum6VkVsuEsc9Q8iyJPCEYE8cH3AfvrLl6a35Jcw2qYj/qgH86NGg8oOmF8avepntkkL4EaH1FJHccFvPwuT+eNY1b0o3I0sxp7PKsTk9qeonA+B+LRo0SrWyOme6bXvOx1tVaHipKarjkkf1E9qg5JxnOjRo1Cv/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Gonna Get Mine
-Explicit Content</div>
-                                    <div class="artist">Halestorm</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EACwQAAEEAQQBBAAGAwEAAAAAAAECAwQRBQAGEiETByIxQRQjUWFxgRVCkcH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYDAv/EACYRAAEDAwQCAQUAAAAAAAAAAAEAAgMEESEFEjFBE1FhInGhwfH/2gAMAwEAAhEDEQA/ANH2vk82/wClSspnkPLzjkN+QpDaChd+8oSlIFg1xArv+9KDHqDuR308ys7xNMzMU41GlqSlKn2EBPJyQpLigkqIBCUV2aPx1rRMBmxn8Pjsq0EttymUvJbSvlxCu6JHyR8H99cN07KxG6yycm7IZjpUVOIjveJLy1JSgFz6V7Rxo/Sq1K0FHuPmrWjcDcDpvwEY+4H0lZJujf258QHFNZ15TaHFWt6Gx7OLcUpCgB0CX1lQHIjiAPs6usP6nbmisMOZWBGnpAUp9plBbfASppo13xvzuLQBQvgexWkl2G+/vMs52bFeekZF1MhxtweLwqoDin9OXd1dJ6+taLunAxHdiTslsBp1tKoyoa4jhUC43+cKBVZCg4+XDZPIpr50TrlHTSGNskdy7HH76QdJUOmLrcBPQgqz0nHZqLNlRo6223Ux1trQSPmlDkKPdEEaNM0BgxIUdlaubjbaUKUTZJAo9nRqWj0Koe0b5LW4FgbD7plg5skHC5vCS4sd3CSYrWLcSPwyfaylKPge01xH8gazf1PzMaDDi7YYyDct7IOqlzpz5BV2kpaT10CB0KF0E/fekfHxkoxhyGDhqZjcPA0w1RWtCitQK1X71p/UgfF1qth4de4JK5eRlZCO5Ci+RTjjFlSUDsqv/Ydiv2/rVeyMsex+drfyeM2WJlYBwo+SbbkbIdmR4DwlsOJU7kSkjxqSeAbSQP8A39Or07+ge6Z8h/K4zOZyRDiAMvt8lgUrvkByBoKB5EijYBHelDLwcrtuM9i2HRM29KHn8j7BT5lLbPu7quJFCz0dQcI8xAgTwGHHHpUf8xt11Lyl0ocAkVyFD6HzVWBptIGyja4oaN7Yje2F67l71wMFtpC8my6opoFDqVk0Pvv50a82RtsK3HuTHYDED8P+KQ4443PbCm46Qm/ICk8jYNAHj2Bo0iqW0bHDyTFp+P4ixKHi7VOjTROyD2fwmOSvBf5AqtltTYB4BFJJ4oHSrCa+TWq6a0/FyJmFqe5FHiZaWpaw1IoHmkniQVWQok/v9m9GjTWCUkub0DZaPp4204cBnC5w428t6ZZuBGbmvQV80LS4ltaEJA6UTQriSD2QSfjV2PSfdhTDZ5shEN4ONrDaxzoiwrq1CgPvr+Ko0al9Y1mppZtkVhj0ho4wRlO+I2nLmP5mPHmspzz62o+QcYaSkR2VV5Ku/eUjqxdf90aNGkk2rVEb+jexyPYC7DAV/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Strange Days</div>
-                                    <div class="artist">The Struts &amp; Robbie Williams</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAvEAABAwMDAgUDAwUAAAAAAAABAgMEAAURBhIhMUETIjJRkQcUcSNCUmGBgqHh/8QAGgEAAQUBAAAAAAAAAAAAAAAABAACAwUGAf/EACMRAAICAgEDBQEAAAAAAAAAAAECAAMRITEEBRITIkFRkaH/2gAMAwEAAhEDEQA/APN+ltPStR3pm1w1IRKeB8MLBIUfbgGu++aIvFquH2jcdc47QrxIjS1pySRj09cg1jbJs61SW5kJbjT7RThTfBIyDjPbpTNbdRX/AHyVNqw7LcW83kZU2tS9+QTycHoDUZsA2YSvSu5woiQ3YLq4pSUW+WpSdu4BlXG7G3PHGciu61aNvE95xsxXYwQjeVvtrQn1BOM465z8Gmludqn7mRISobXNq3F+EAg4BAPT2J+a1O6svgkpelPIeWjdglG05UQVHIxydtcW1W4Mc3RWoMssUdW2CRpm+P2uY625IZA37AoAE9uQO3P96K16iuEq6XFyVPeW88snzLOSBknGe/WipRBSMGN0CE5PhbWWjvXwlQ4/pVj/AEe0sxJvVyt91ATMtiUeNvO45UTyPcdOc96R9FX1m3OJTNjrcjDzKI52/FWX9MHGbC7erqLkPvptuVP8JSANitxK0c9SB4ePyazncWtWl1XXGP2aT119pQ7+ZL3eWG/pC9doMKOh6JKLag6ncV4Jb3HI59e7HTiq/wBWaZgvaXZ1Sl2W2zOU23FjYT61nB4HQeVR5NOrKVSNNI0ZfrmWw+83ILwSPKgpU4pI/wA0n5qF1820dEWGz2G6iYzFbTNdO3ISpOShJx3Uoq47BNCdvYVN47yW/kVrkA75lG3+2PxJDiXR5kKKentRTjqlTc6EidtUXnvMpGOh7iitHVcWXY3KvqKqvMlG1EZm4FKMAk/k8VOW7VLsd1KnAh0JGNpHH/aKKIatW5ErwxElWNSKlPqelFanUj9NX8OvA9hzXJNv7qGlIiuKQk/tHH+hxRRQwpQNxHl2OsxckXiRhQS85yTnmiiiigi/UjzP/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">No Matter What
-Explicit Content</div>
-                                    <div class="artist">Papa Roach</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBAv/EAC0QAAEDAwMDAwMEAwAAAAAAAAECAwQABREGEiETMUEiUWEHI0IUFYGhM3GR/8QAGAEBAQADAAAAAAAAAAAAAAAABAUAAgP/xAAoEQACAQMDAgUFAAAAAAAAAAABAhEAAwQFITESQRMiUWHBFHGB0fD/2gAMAwEAAhEDEQA/AEL6e2Gx3K4W1i4x21RHWwVLcQEKUrHAOPGTzg1oOt9E6Yas0qXa7LDiusJ2pUhY+4fx9CuDuPbBzik76c2d64CHNtjqyYqW9nV9JUrGdox8ck9hWkazi3bUFhZeguR2QClaWlAZWfB3fiRnHsfip+ohPr0fxiAANt4n3isxXVcZi6yZMe9Zrb7FohuIj94VJak/py442GSMO4G0J+3gpJ3AknghOM5Jqyasn0uU6jqyJyQ5vAUGjhGDhOftc7u/A48/K7Ij7pa4aGXWlJJW7lKlrwBkjYBnjNQ5LLjbbbyApoI4SlxGD39s/I5qqgtO4TxTJrc5rBSTZED+9Kn6us2imbDMd0/JfcmtgkNyI5GB29J2AHyrJIwMDGaKp7oFJtklocuKbUtf/DxRTmwjZMdRNFGoLf8AMEApw0traRbdIWi3iHGRGabSl5xoEuPI7lOew4PvV63rJH7CLexCkP8AUb6bbqV7FjkhBAAPIOP5FJdkhXCbZ4z8eCFF1hCGikgJSCRkBPjsR/Zrzbpz9tfbchrWH47npKCCUnnnJGPcdqk6jpy3+lrS7jmu+Bk2lYnMkgcVObtuo4bl0kzrdOaS9tO4o+4raMqUod9uSe4/LvxVcw2Z0tCXnEtPOqIj5HG49gfYE8f7rUbfqK7staauN1uUZ2E+6GXglrnCwsHerOPSUDsBSJ9QICbXrK5Mx8qW451muOEBYCv6JNJ0q2A7Iyw3Y/auepxAuIfL6UrXNK2bdLbOf1Cm19TPdPByD80Uz6stS7lZJt6tAbcbdYUuYgLAU0sJ9XHtnn3oqk+XbeC2x70K3jPbkASO1KlpvMVi1wmzKyttA3DrbfA9OPFSRc4KuevGab3hW0PAkp8p9/5oora3ESPmsZjx8D9VYwbxanrU5BVcmGAXittDrvpRweQfnNdmXu0yS2HZ7TrzDaWVKQcJdCRjO4nI557UUVJVS2SYYiJpZaLckA/iqSVdo7dtmMwZaWStpaXFJe/ygpI2480UUU+6R1cUe2Wjmv/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Why Don't You Get a Job
-Explicit Content</div>
-                                    <div class="artist">The Offspring</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgIHCAP/xAAtEAACAQMDAwIFBAMAAAAAAAABAgMABBEFEiEGMUFRcQcTImGBFBUyoRbB4f/EABgBAQEBAQEAAAAAAAAAAAAAAAQCBgUD/8QAJREAAQQBAwQCAwAAAAAAAAAAAQACAxEEEiExBRNBcQYiMoHw/9oADAMBAAIRAxEAPwDSl7YJdXUMszF1iHCjgHnuaieq7kSPDboRtQbm9z2/qrFqkbaZppvZgDG3EYLDLH0AqojTdT1CA38dpPLFJJsDqpO5vQDz+K5uM0khzuBwtv1uZkbHQQi3P3d+l56Ppr6hcFRxGv8ANsdv+05qenyaOyT207bWO0A9/X8imNAv001pra7hkjlLZYsvI+xXuKtGsdOXGpRW6RlVJ+tBuBLAjwPbFXJK9stO/FEw8HGkwS6I3N7qkpaF2hid/wCRUE49cUU++nzpCX2J8uP6SwcEZ7Y96KARZulq2u2ABulExfretNTttOMsn7JpMbyu47RRbsu3uxIUfj710hp1ppvTt5p3T+nbN8Nrc3NkjnjezYXv5wW5881z305DLpNhJEpQSTnM2VBz6Lz3AqTfULqSZZGdWlXhXKAlfY+KS/KaPq3gLiQfH55R35TTnWa9+FbfilBcT/DXTm6iRP8AJFvvpLoomMJDDBI8Z/1Vy+Hcn6vpzpm6hke5l+bslkmGGR1t2UImB2AGM9609rVzd6rYSRzSq8vGJJAN3B7bu4rGw1qfTLO1sRcrGyjgAd27Ej71QyAWCt0eTojxO7UQ0Ec8CztQV/6+UXnTVrcaMpTSoLiSO4gAxiTcfqfyec9/XPmiqM+o3C280e5QkmS6qoG77nHmiiSu1m6WgwsY4sfacb/vKVnRUgWUXMLkgN8tSdwyTweMZGP7pd5lyMUUVGkWnslcW7rO4UTwPAHKE96UMMaCMSEyGMYVnHINFFel0KCCac/U4WmTIuw5I7UUUVNK3SG1/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Work</div>
                                     <div class="artist">Pop Evil</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIECAP/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMEAAURBhIhMUETIlFhcQcygTNCUpHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwDmWOnJHrUxGZKk8g1oxEcj1qYS41Fjl90KKE4zt6/iqwM2YxVwATXvMtctiP4z0V9DR6LU2QP7IxTs0NpeBOtcIWyVEYmSGkvJnDcrcn0KSfKrHBx07U3lWhqRb1sSWGnEbdqhtCgr2x3q5A4Umt+Y0Ux/rPpWJp+9+JasoiSMEsnqys5OBnnacHHwRRUwl9CHTgY+aZ1j09o26xYiZE8yJQVuU0VFogdcLGcH0yOtUiyybQ3HtyZcJxxxtbpkrDm0OJUBsA5/acntmpPSdpt1zlqROLi47TCvO393iKPlPHYYJ+K2axlwtaxNPzXYtvbEhCU7W2WE5GMcYx0q42PWtzVESu4QFoh7EuGW1lTad32+fooe4zg8Gl3dLxYrHak2vSEJl2WttJckHIU2sAAkk/dndnjPT3pbtWmc1FWJMh1ofrISlZwM8HjOO45NVQuv1e1RDvRaaiqLqkKyteOevFFLuYnwQNoG0p/lk5B79x+aK1ZHsONulvdtwNu5sDJWO+PfGasKb3AYsUmHBQ7HnLUStxZQUeHnAA4yFYOOgznNFFTSusTTrjekbXOVIbfbaQtTzaSPIjjZjvlYOe4Ax81Up0913xVPuZLhwogYAHsP90oopDZudp0si3vuR9TKXIS2paWzHOVKAJSn8nj2oooqFP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Close My Eyes Forever (feat. Lzzy Hale)</div>
+                                    <div class="artist">Device</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -293,17 +255,53 @@ Explicit Content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcBBAj/xAAtEAABAwMDAwMDBAMAAAAAAAABAgMEAAURBgcSEyExIkFRFGFxCBUyQkOBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAfEQACAwACAgMAAAAAAAAAAAABAgADERIxEyEEIkH/2gAMAwEAAhEDEQA/AIdqduNEXDaOBqLUNn+okBp519wPOgqCHFgYSlQGcADtV7oLb3bTWFtdlxtJyIa2l8FsyZDwVj2IIXgj/hBFU+yV7uzmi7Bambc3MswbebfbwCpZLpUVcgcpACvgkkDx5rc9J2aBaLcpNvYDfVcUpxZUVqWQogclEknA7dz4rl8jF8HUpxAX33Mn3D2a0nA0tIkWDTyRNSpPq6rzhSjOVHjz+B71aWTZfQku1R3ZenUJklOHB9S8nv8APHn6c+cH2NPep5L86z3GJZpSWJbbgZccUnPFJAUoge/bI8ecilHYtUliyOQZVwYlp5FxttDgK2Rk8gsE8gc/OR980TYQ/cQTU2Zhv/tdp/TWjf3TTlsZhhpwJeUXHnFq5EBIGSQkeck/jziinX9R8xl/Qd7YRJSksNoSppDnqUovNkcgP64zgH370Vah+YJ39hdeOTMds94BpfS1htxswkC3JfBc+p4dTqKJ8cTjH+6f7TvZIitPc7YxNQ5IcLSWnS30kk57kg8h3+x7V5rtcltq1RwlsqkJUrJP8ePt985zXInymw4G3loSvPIJOM5rSh3QJRTXn2ms3TXUqFJmrjkMsPlTa0x3hzdBWVcuS0qwABjwDiq3Tm6ly01HLEBuGsIddcadcZ5LTzOSnlkHB89xnNZlzW6sFxZySAVHvVvb9O3G6NFyE2FtAkBazxzSWg2HANMFnyErG9CMe5e6crWNuejybRBjdRsJW4j1K5BSTyBIyD6cfgmikS92uXCElL7Sj0gOak5KRnx3oprSKvXUkbPJ7BnSiSWkRkJU4AQO471KqWwf8oz+DRRSmbJY1wZYeQ4lTayg5AWnIz9x71oaNf21iJH6zn1TqsKWhpBbDZ+O470UVeq56t4TnvoS7A4iRqjUb16Q51ZOUf1aSnikd/j3/JoooqTMznWMqiqg4qME/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EADIQAAIBAwMBAwkJAAAAAAAAAAECAwAEEQUSITEiQVEGExQyYnGBkcEWI0JSYaGx4fD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAHBEAAwADAAMAAAAAAAAAAAAAAAECAxFBEiEx/9oADAMBAAIRAxEAPwDhK2Zcjrg1Ih09kOdprWvo74DMB8Fx9KXa7rCQyi3jucZDRuPWXGOPA94rFkTFpNIoLa0ZmB2EDpnFMaoLW1YeekJfb6g5b/e+leU2oPJcxR2Mt0p2HdFsKbMkngZ64rLurnOc5/WnFldYqaZXY4BA8M0UwUIPeTRWaLKtfEdw+0luERZLG2KbNvrMOfzdSc/tUSzuLYyPLJAsiuhVQegPHPyrDR3jNAY9x5IOO6tDZOfRo+7sipRi8SWTI2SLG70mbWZ5GtI94kO7aoHZA7OR45HXu7qfv9N07UnzJapG5UDfGApzjk8defGs5IDa68Jlf7u5yrD2gKvVuFU5Y4NW0Sqnwp9T8i5EG+wlSaP2+yw+horWWl7DtAZ/gaKAV0czsj0DfxVjrFw0OibkcguVUEe/+qKKYbpR6rLPG8c1zdmeUoAOeVHTHyqx0fU7iW3WOCAzebwGIbnFFFDGa9E9767UufQ3Ufh7Q499FFFYLo//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Hotel California (Remastered)</div>
-                                    <div class="artist">Eagles</div>
+                                    <div class="name">The Reckoning (feat. Jacoby Shaddix)</div>
+                                    <div class="artist">Within Temptation</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAcCBAUGAQMI/8QAKxAAAQMDAwMDAwUAAAAAAAAAAQIDBAAFEQYSIRMxQRQiURUyYQcjcYGR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGhEBAAIDAQAAAAAAAAAAAAAAAAECERIhQf/aAAwDAQACEQMRAD8A9U0pWIl31mPeDbfTSnZAZTIJbSkp2Fe3PJHnx3oLFWroI1yzplH7klyMt9TiDkIUkj2H8kEn+vzWyVDcLSEJep7NeYE2c1NhXuUzLHTHUk7sqCHDu+1IAOeQU845FSrbbpFuMiezGUouQnug6CnGFbQrj5HOM/II8Vd4rzVMZ9ZClKVClDziWmluOZ2IBUcAk4/gc1H0x+He9SRLraJUSX14SUsByKtQASveHkq4B52jjyRW/wAlQRHcUd2Ak9gSf8HJqO9JWKax+mCI8h2aZH0cw/RPtbek5tI9owDySBznsOaDIDczqCddIkeUh6Wy2gNLbyht7lHWPz7QhJweyR81aaeehWW9NuLkKYdftyfVRFR3C44ptZHXzzx7yDwfuHNcaqsc2bFs6IUdJWzbHmXElo5yejwlXZDmEr2k9leKub1Dfk6xiTmHrlDjfR345fZjlS0LU42pIIKTzhJPg8d6Nbww6h9ht5lQU24kLSoeQRkGlUQ3OtEZdLa296ArY4napOR2I8H8Uox30pSgUpSgUpSg/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAECAwQFBgcI/8QAKxAAAQMEAAUDAwUAAAAAAAAAAQIDEQAEEiEFEzFBUQYycRQikTNhgaHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APPMDS3Ckk9dVGFzvlojxFOfR9jZ7R/dXuG8NS8/Zm7UpFq9JUpuCpKQY6eZI60FLFzNKeVE7xJI/mo3smllLjQSobgjddj2Kbb076jevbuzHExZAtlt2McQ3ijUdpH+FcJ4glF/9beOOpbfTitLISSFJJggGdYiNeKChiIyREUUxhJwcPaigne00mIifH4q6m5Sm0YTy1FSTlzEA9OwMiNHxWfdKJSgQYE/mtz056iuuGOW6nLp/wCjZUJt0nS9+2DqKBrfEHXGLt555Rcuk4rA7knwNCslalhsoWnEx3qW+vLhy9uXUuKl1xSzgMRs9gND4FU1qUpQUsqJ/c0Dmf0VdIyoot55bgPt60UFkjIAKIjxUYZgkZiPiiigUMgK94jzSKbnRcTHxRRQbj7PAE8CKmL67PEuWJZLA5efcZT067ooooP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Until Forever</div>
-                                    <div class="artist">Eva Under Fire</div>
+                                    <div class="name">Here's to Us
+Explicit Content</div>
+                                    <div class="artist">Halestorm</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIDBQj/xAAtEAABAwMDAwMEAQUAAAAAAAABAgMEAAURBhIhBzFBExRRFSJhcQiBkbHC0f/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQIAAf/EACARAAEEAgIDAQAAAAAAAAAAAAEAAgMRITEEEhQyQSL/2gAMAwEAAhEDEQA/AKy05oxMuzLkOO+iCUp9TONoKgCc+P3TzorSkBUu5RWnlS2mVpLa3FBSkgjkEgDyPjPNVlAuqn7laS8px2E0ttS4pP2cqweB3ODnJqyLdLHTHqHPtF0kh21yWkylSF5UpskZGFdyOMYxnOKgzQyuaQTvKpsmjHzSZYNotcqa5EQwoLSVhC1AbXCg4UBg54J8gZ8VunaQie3dX6KcJSVdvgVWr3Uif9cemWaOwYrbjojIkJ8KOQVBJ47/AD/ioupput4sV3UE9l2KJHJcjuKAbTjhO0+Bn80v4D7FmlryhR6C6W++2K2yVFuG8wp724e9NK8q74UR+ORRVTm5OsSWn4K1xlNtJaKm1YKuPuJI+TmiqI4Uo9H4S55bTsJm6bp9/rO0xlkbXZbLZz8bh/yrR/lVFjtast70cNID0ApISMYKVE/7V59YeWl0Bs4UojBzjmnC5aS1FGfSzKiuTnkpVubiue4U0fO/bnb+M98cdqcfTTlAYLKeZehGofTOPeWW5bs8Rg876mEM7Fd0gZyV4OQTyanW5Nx110omobuqfeRWwj23dS2kkKIVnnnHGP61ztOSNRv2Rq13VuTGgxvtBLSisnICQoHgY4/Yri2Vi+aK1GVt2iRcGdrzTYYQoJcOec48ApwRSI/ZonIOE6erBjRGVW1wY9q6WitK/OQKKxuUkyJbji20oUScoSMBJz2A8UVVbdZU5wF4UZlz03UL2hW0hWFdj+6e4vU+9sznpqG7aiS6UlxZZVlW1W4cg9gfHjxRRXj42yewtcHFulJX1Ll/TG0tNRkXEOHc7tV6fp7UpCQM5z9vJPj4qM51QvwmCShUIKKXUKbQ2oJUHHA4onnI+8AjBH9qKKG3ixDTVsyvP1Ikh1b77jzhytxRWo/JJyaKKKOAhL//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Money For Nothing (feat. Jussie Smollett &amp; Yazz)</div>
+                                    <div class="artist">Empire Cast</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAYHAgQFA//EACwQAAIBAwMDAwMEAwAAAAAAAAECAwAEEQUGIRIxQQcTUSIycSNhgbFSocH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EAB0RAAIDAQADAQAAAAAAAAAAAAABAgMRIQQiQRL/2gAMAwEAAhEDEQA/ALZpQ1qS+uHgv4EjmYMA6Z5+Bx8U1wm+RQJnhY8fUMjPycY/7SBs/XxFHGbwEyuSc5/inpLoSRh2YqDz/FFbFxfR2aZ3LytGFYKzEnsewrh6lBNBYzTW80ftspJbHKjzit65voYy/S2QOeD/AFShebhgn1uO2t5ilvChE0qx9YV2x0r8Z4zz2qVtSeMqqhJLUuE+3UlmvutLcLZsVYqjMXDt5Ge68duCDRU93Tu4r6jpdR9M1rbThSjrlZAAQeoHjByeKK0Kq4fkdPy7IvEVPatwIbMX+oKEtI0V1cHKuWHAB800aPu24vIpldT0yI/t9J4GBUO2b6gWk20YdI1GyKw2gMtv+r9UsufqHxjngY4xVB2zqjXt3ZyS2r28VsCfbKFc5zz+/GKK6E7OomodSXsbeo7q2rqWnm6udaliKqOqOGYxuflWGPA4yOTXGsfVPaFpZ3MVpG1pZ2zAx25UlrnI5bPOTn5NIfrVt2Cx1CDV9PAtrbUOoyIVIHWPudfGD/dSZzE86RwTdzjqfgVEqZRfUPn5EUsTHpjJvTcmp6vaWjIIYxM0S/4KAo/J7H96K19CTWrGW2NozWUsDEEo3LjjvjgjjySKK1qqXGPUZtl+y4eZuIlurNI4wvQpZnCqOSf9H8U2ncs2lRx3czStFEwYhSRkdh28dqKKen6sR9R09X1Sw3/pFtf6xqwN0iPaw2CoFzIcEeeFxjJqMXekjTtzSWGoRsqROPcQNg9OM8H8GiipbMaXPoaGnWNQt4dvxyabcSEsoja3OPct4xwGJH3Bvnx570UUUNtsk0kcxH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">For Those Who Wait</div>
+                                    <div class="artist">Fireflight</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIEBQMBCP/EACcQAAICAgEDBAEFAAAAAAAAAAECAAMEERIUIVEFMUGBIjJCUmFx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABoRAQEBAQADAAAAAAAAAAAAAAABAhESIXH/2gAMAwEAAhEDEQA/APm6tv7mh6ViZOfnVY+DQ1+Q5/Gtfc67zLU9psYeTdjemXNi3CkOONrA6a0fwUjvrz8eZLeN4z2tDEwOuyAmRd09y7WwcS+iN+P8lHKx+kyWr5hwPkDR+xKGL1FFyo20FwDDk2gR9SFlwTJKjZUduRO9/czOta8b9WLT2MTg1qt+kgmJpzVFMci7rWCdDch+3tJYVwx7ku2CyHfEj3itZXb1OUptvu4njxQeNdgNeJmhypO/eevdz2zb5lt7kHZWO1Gj895Yl910VwCD3icgNxA7KYcAKxAG4iQVoiJRKIiB/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">God We Need You Now</div>
+                                    <div class="artist">Struggle Jennings &amp; Caitlynne Curtis</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFBgECAwQI/8QAKRAAAgEDAwMEAgMBAAAAAAAAAQIDBAURABIhBjFBEyJRYYGRByNxM//EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxESISIE/9oADAMBAAIRAxEAPwDzws0F3T1JyYZUCmVgu4FVGMjznx+tQEMUk8qRQI8krnaqIMlj8Aeddy31MMFPNHKGJkxjHYYPz+u2r/8Awb1DSdG9ZpcLlTrJFKjQrUCP1DEDn3L5BO3GRzj/AHSuxUEgbKt95KbabW6XhLddqWqpp5SqqrxlWUk+VODjGm9d7dW3aGljkqoKNrdEQGanEmcrnJBOFIAIGAAO/fTc/k97B1l0fTSKYpLkm2oo5zgSRPt3hT5wwG0qcd/kaQRsdVam9aokdIpSVj/u5kA7klTjGc4xxjQqfse+GA2lF+TK11n0lV2uQVFRVRTzS+5woCsG85A4Hj4HOjUreWnFJLCtRP6JH/NpWYDnPYn50arkh316YtkxuG7tnnTl6ch31FbcRDCKaDZSQU5bfuUhSD/uOee+PxpOxRlmHtYj6GmjZq6jboCWgVIhWLKs7y7uYlY7CxxyNvsb541s6UqI53JcLf1FaKSVZZKiasVXWGRZYdiQEIVXbkDLAFu3xng51w9ZVMVOtvtVHJDW0pjE8MijDemBgDOMFuPAz+9KzrDqm93GR7dcpotkGImWFfbIyk4fJySTnORgH41N2+pnoemLWte4SlmJ9EhwXiwDlsdx388EaSunTAwJGCb18oljlSNgGCnv8ff3o1DVCJTSEVjmbKExiJshyw9p47c8H47aNZnwwLV5G7Q0MMc4dVSRSGPpNE4yuO3K7fyD+T5pEPSNfBJcKugpJzHPDJHCqYAbJx7xnIH19aNGuO21qiCs7+A49mY+gbhNbKQygNcYfYwlbKqmTjB+vjUja+lKKzMlb1JPDcYpjtgp0jaVQw7YA7nGRzgd9GjUU/RY78kwtWqromZkqLv1VHOsloslLQ/1MpjQSIhzhWQ5JbH4GjRo1RiQcECron//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Set Me Free</div>
+                                    <div class="artist">Avenged Sevenfold</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAgMEAQj/xAApEAABAwMDBAEEAwAAAAAAAAABAgMEAAURBhIhBxNBYTEiQlHRFJGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAdEQACAwACAwAAAAAAAAAAAAAAAQIRIQMxEhNR/9oADAMBAAIRAxEAPwD5WA8mt0cNFza6PpKSAQfg44P90waI0dc9YSZLFsVEabismRIkTHgy0y2CBuUs+zimpzojq9DDzjybY0pouKS0qaje622QHHkJ+5tORk/5ScksZVYTEBOOc5oSlOOfzVah9AtZy33IvZtzMlC3QA7J270NlIUtPHKcrTg+c1ivoJrVMATGG7ZJaL3Z2tTBknudrPOBjd7peyP0ESl0oKiUJIHjmimrqJoe9aDuiLfqER/5LzQeQWHQtO3JHojkHjFFUmpaJ9nHovV910hOkSLQqOpMlksSGJTKXmnkEg4UhXB5ANNS+r2r7pEftkufDSib3WVy1Q091hp4juJQpKdyUHyEjxxU5SpsNcBRWfnwB+6qPQFMWLqKZd5NyscJUZpLDTN1Una/3VYWQCoZ2oClfjOB5qZxSXkxlXtbHUhd7alx9X6Vkuw4S7WFOJKhsQslf0FOSolkfVjnipLK626xLSowlQBFS5vQ0IaAlKw73QsJIwDu/RqwwbxakWu3PzLloNiZtSXYgDa+0ltz4KkuYUnadwQMc/GTUW69Wu2wdXom2u9Wy6JuDQdcRbwA1HUMJ2pAUcAgZA8A45HNY8dOVSRTwXeoGu75ry4MTNQPMrcjtdlpLLQbSlOc/A85PmilZScAHOQaK6Eq6IZvDrbcYBAJeOdyj9o9e65yQR7oooEe5+fdClbiCfAxRRQBkop2kJJ5ooooA//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Burning Down the House</div>
+                                    <div class="artist">The Used</div>
                                 </div>
                             </div>
                         </div>
@@ -319,6 +317,26 @@ Explicit Content</div>
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">zedgell/zedgell</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a1ab0c0</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -390,27 +408,12 @@ Explicit Content</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pre-released
-                                        <span class="bold">0.1.0.1</span>
-                                        of
-                                        <span class="repo">Edgell-Development/Edge-Connect-Unmanaged</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2023, 03:16:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 03:16:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
